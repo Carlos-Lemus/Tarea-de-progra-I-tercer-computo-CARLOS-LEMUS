@@ -1,0 +1,6 @@
+
+-Instrucciones
+
+1.Abrir el programa unicamente con el archivo cpp si tiene el proyecto del programa abierto
+(archivo .dev) podria generar errores
+2.FIN
